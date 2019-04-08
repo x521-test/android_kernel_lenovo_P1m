@@ -1,3 +1,3 @@
 
-obj-y += ov2659_raw.o
+obj-y += ov2659_Sensor.o
 
